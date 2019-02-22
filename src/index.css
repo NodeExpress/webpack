@@ -1,0 +1,14 @@
+body{
+    background-color: cyan;
+}
+.rotate{
+	width: 200px;
+	height: 200px;
+	background: #000;
+	transform: rotate(45deg);
+}
+.logo{
+	width: 500px;
+	height: 500px;
+	background: url(./dmm.jpg) center;	
+}
